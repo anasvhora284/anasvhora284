@@ -25,10 +25,6 @@ Hi there! My name is Anas Vhora and I am a computer engineering student at Gujra
 
 ![](https://github-contributor-stats.vercel.app/api?username=anasvhora284&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=anasvhora284&icon=4&color=0)](https://visitcount.itsvg.in)
