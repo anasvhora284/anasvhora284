@@ -1,33 +1,171 @@
-# 💫 About Me:
+<h1 align="center">Anas Vhora</h1>
 
-Hi there! My name is Anas Vhora and I am a computer engineering student at Gujrat Technological University. I am passionate about coding and am currently honing my skills in HTML, CSS, JavaScript, ReactJS, as well as Java, C, and C++.<br><br>I am always eager to learn and am constantly exploring new programming languages and technologies to expand my skill set. I am a self-motivated individual who enjoys tackling challenges and finding creative solutions to complex problems.<br><br>When I am not coding, you can usually find me trying new things on the latest developments in the tech industry or tinkering with new software and hardware. I believe that the world of technology is constantly evolving, and I am excited to be a part of this fast-paced and dynamic field.<br><br>If you are looking for a dedicated and passionate programmer who is eager to learn and grow, then look no further. I would love to connect with other like-minded individuals and collaborate on exciting new projects!
+<p align="center">
+  <b>Python Developer • Odoo ERP Engineer • Linux Enthusiast</b>
+</p>
 
-## 🌐 Socials:
+<p align="center">
+  Building business software by day, breaking operating systems for fun by night.
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Anasvhora#1461) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anas.vhora.710?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vhora_anas__) [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vhoraanas08.png)](https://tryhackme.com/p/vhoraanas08)
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=anasvhora284&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasvhora284&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasvhora284&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=anasvhora284&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anasvhora284&style=flat-square&color=blueviolet&label=Profile+Views" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=anasvhora284&icon=4&color=0)](https://visitcount.itsvg.in)
+```bash
+$ whoami
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Anas Vhora
 
+Junior Python Developer
+Odoo ERP Developer
+Linux Enthusiast
+Cybersecurity Learner
+```
+
+```bash
+$ neofetch
+
+OS        : Linux
+Editor    : VS Code / PyCharm
+Language  : Python
+Database  : PostgreSQL
+ERP       : Odoo
+Interest  : Cybersecurity
+Status    : Probably tweaking something
+```
+
+## About Me
+
+Computer Engineering graduate from Gujarat Technological University.
+
+Currently working as a Junior Python Developer focused on Odoo ERP development, business workflow automation, and custom ERP solutions.
+
+I enjoy understanding how things work beneath the surface — whether that's ERP systems, operating systems, Android devices, databases, or random tools I probably shouldn't be modifying.
+
+Most of my learning happens through curiosity, breaking things, fixing them, and repeating the cycle until I understand them properly.
+
+> *I write Python for a living, break things out of curiosity, and put them back together better than before.*
+
+---
+
+## Currently
+
+🔭 Building custom Odoo ERP solutions
+
+⚙️ Automating business workflows
+
+🌱 Learning cybersecurity & penetration testing
+
+🐧 Daily driving Linux
+
+📱 Exploring Android internals, custom ROMs, and system customization
+
+🚀 Building tools that solve my own problems first
+
+---
+
+## Tech Stack
+
+### Backend & ERP
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge\&logo=odoo\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## What You'll Find Here
+
+A mix of:
+
+* Odoo ERP development
+* Python automation
+* Linux experiments
+* Android-related projects
+* Web development work
+* Learning repositories
+* Random ideas that turned into actual projects
+* Things built because existing solutions annoyed me
+
+Some repositories are polished.
+
+Some are experiments.
+
+Some are both.
+
+---
+
+## Current Obsessions
+
+* Cybersecurity
+* Penetration Testing
+* Linux Customization
+* Android Modding
+* Reverse Engineering
+* Odoo Architecture
+* Self Hosting
+* System Internals
+* Automation
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasvhora284&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasvhora284&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasvhora284&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Things I Probably Shouldn't Be Modifying
+
+* Linux installations
+* Android devices
+* Database schemas
+* Window managers
+* System configurations
+* My own code
+* Perfectly working setups
+
+---
+
+## Connect
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vhoraanas08.png)](https://tryhackme.com/p/vhoraanas08)
+
+[![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/Anasvhora#1461)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vhora_anas__)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/anasvhora)
+
+---
+
+<div align="center">
+
+*"Curiosity is usually where all my projects begin."*
+
+Thanks for stopping by 👋
+
+</div>
