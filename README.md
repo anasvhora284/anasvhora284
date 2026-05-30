@@ -156,7 +156,7 @@ Some are both.
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vhoraanas08.png)](https://tryhackme.com/p/vhoraanas08)
 
-[![Discord](https://img.shields.io/badge/Discord-E4405F?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/Anasvhora#1461)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/invite/Anasvhora#1461)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vhora_anas__)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/anasvhora)
 
